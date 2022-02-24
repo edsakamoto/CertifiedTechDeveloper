@@ -7,6 +7,8 @@ equipe 2
 Eduardo Sakamoto
 Guilherme Mello
 Lucas Bernardo
+Fernanda Brum
+Wagner
 
 */
  
